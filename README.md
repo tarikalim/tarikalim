@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Tevfik Tarık Alim</h1>
+<h1 align="center">Tevfik Tarık Alim</h1>
 <h3 align="center">Computer Engineering Student at Mef University</h3>
 
 - 🔭 I’m currently working on [Blog App Backend](https://github.com/tarikalim/BlogApp.git)
