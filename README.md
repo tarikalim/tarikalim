@@ -1,5 +1,4 @@
 
-### Programming Languages:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -16,12 +15,14 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell Scripting" width="40" height="40"/> 
+  </a>
   <a href="https://commons.wikimedia.org/wiki/File:Linux_command-line_shell.svg" target="_blank" rel="noreferrer">
     <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="Shell Script" width="40" height="40"/>
   </a>
 </p>
 
-### RDBMS:
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL (MySQL)" width="40" height="40"/> 
@@ -31,7 +32,6 @@
   </a>
 </p>
 
-### Frameworks:
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
@@ -44,7 +44,6 @@
   </a>
 </p>
 
-### Tools:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
@@ -66,7 +65,6 @@
   </a>
 </p>
 
-### Operating Systems:
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="UNIX-like OS" width="40" height="40"/> 
