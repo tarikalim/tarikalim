@@ -1,0 +1,94 @@
+body {
+    background: #181a1b;
+    color: #bbb;
+    font-family: 'Roboto', sans-serif; /* Added Roboto font for a modern look */
+    font-size: large;
+    line-height: 1.6; /* Increased line-height for better readability */
+    margin: 0 auto;
+    max-width: 50em; /* Increased max-width for more content space */
+    padding: 0 1em;
+}
+
+/* Typography Adjustments */
+h1, h2, h3, h4, h5, h6 {
+    margin: 1em 0 0.5em 0;
+    line-height: 1.3;
+    font-weight: 600; /* Adjusted font weight for better emphasis */
+    color: #fff;
+}
+
+/* Link Styling */
+a:link, a:visited {
+    color: #a9f;
+    text-decoration: none;
+}
+
+a:focus, a:hover {
+    color: #9cf;
+    text-decoration: underline; /* Added underline for better accessibility */
+}
+
+/* Separator Styling */
+hr {
+    margin: 2em auto;
+    border: 0;
+    border-bottom: 0.1em solid #444; /* Changed color to match the theme */
+}
+
+/* Project and Experience Sections */
+div {
+    background: #282c2f; /* Added background color for distinct sections */
+    padding: 1em;
+    border-radius: 8px; /* Rounded corners */
+    margin-bottom: 1.5em; /* Space between sections */
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    background: #101214; /* Dark background for footer */
+    padding: 1em 0;
+    margin-top: 2em;
+}
+
+/* Footer Link Styling */
+footer a {
+    color: #a9f;
+}
+
+footer a:hover {
+    color: #9cf;
+}
+
+/* Center Text in Footer */
+footer p {
+    margin: 0;
+    color: #bbb;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    margin: 0 0 2em;
+}
+
+header h1 a {
+    color: #9cf;
+    text-decoration: none;
+}
+
+header h1 a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: medium;
+        padding: 0 0.5em;
+    }
+
+    div {
+        padding: 0.8em;
+    }
+}
